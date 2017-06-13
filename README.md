@@ -6,14 +6,15 @@ The script lists the name and total count of active users for specified time int
 
 * Download or clone the repo.
 * cd check-npme-active-users
-npm install
+* npm install
 
 **Default command this will print the list of active user for current day.**
 * node index.js
 
-* Run command node index.js --help/-h
+* For more information run the command below:
+	* node index.js --help/-h
 		**or**
-node index.js --duration/-d --help/-h
+	* node index.js --duration/-d --help/-h
 
 **To print the list and count of active users for day, week, month and year.**
 
